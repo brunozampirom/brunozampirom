@@ -30,7 +30,7 @@ analytics, crashlytics, performance monitoring and store compliance.
 
 Three apps shipped solo on both stores with different complexities, same end-to-end execution.
 
-### My Whisky
+### <img src="./assets/icons/my-whisky.png" width="64" align="left" /> My Whisky
 
 Social whisky catalog — browse brands, countries ands kinds, review and rate whiskies, follow other drinkers,
 full-text search across the catalog.
@@ -43,7 +43,7 @@ Sign-In, etc.
 
 ---
 
-### Analyzer — Stock Market
+### <img src="./assets/icons/analyzer.png" width="64" align="left" /> Analyzer — Stock Market
 
 Personal stock-market app for the Brazilian (B3) and US markets. Portfolio tracking, indicators,
 charts, premium tier, biometric login, push alerts.
@@ -56,7 +56,7 @@ biometric auth, in-app review, etc.
 
 ---
 
-### Sintonia — Party Game
+### <img src="./assets/icons/sintonia.png" width="64" align="left" /> Sintonia — Party Game
 
 Local multiplayer party game inspired by *Wavelength*. Teams guess where on a hidden spectrum a clue
 word lands. Offline, multilingual, polished from prototype to store in one week.
