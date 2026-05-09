@@ -35,10 +35,7 @@ Three apps shipped solo on both stores with different complexities, same end-to-
 Social whisky catalog — browse brands, countries ands kinds, review and rate whiskies, follow other drinkers,
 full-text search across the catalog.
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white
-)](https://apps.apple.com/br/app/my-whisky-app/id6443527847) [![Play
-Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](
-https://play.google.com/store/apps/details?id=com.mywhisky.mywhiskyapp)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/br/app/my-whisky-app/id6443527847) [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mywhisky.mywhiskyapp)
 
 **Stack:** Expo, Redux Toolkit, Firebase (Auth/Firestore/Storage/Analytics/Crashlytics), Algolia +
 InstantSearch, Legend List, FastImage, i18n (PT/EN), New Architecture enabled, Apple & Google
@@ -51,10 +48,7 @@ Sign-In, etc.
 Personal stock-market app for the Brazilian (B3) and US markets. Portfolio tracking, indicators,
 charts, premium tier, biometric login, push alerts.
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white
-)](https://apps.apple.com/br/app/analyzer-bolsa-de-valores/id6444815307) [![Play
-Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](
-https://play.google.com/store/apps/details?id=com.brunozampirom.analyzer)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/br/app/analyzer-bolsa-de-valores/id6444815307) [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.brunozampirom.analyzer)
 
 **Stack:** Expo Router, TanStack Query (offline-persisted), Zustand, Firebase
 (Auth/Firestore/Analytics/Crashlytics/Performance), Reanimated 4, FlashList, Google Mobile Ads,
